@@ -128,23 +128,9 @@
               "icon": "lucide-file",
               "title": "HackMd"
             }
-          },
-          {
-            "id": "b8724efd5433542f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -302,16 +288,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8724efd5433542f",
+  "active": "5de087f1aa4562be",
   "lastOpenFiles": [
+    "Daily/20250628.md",
+    "課題5記事伝えたいこと.md",
+    "Qiita記事/Qiitaプロット思っていることを書いた.md",
+    "Qiita記事/Qiitaプロット.md",
     "Daily/20250627.md",
     "gitignore",
     "無題のファイル.md",
-    "課題5記事伝えたいこと.md",
     "課題5記事プロット考えてもらったよ.md",
     "Qiita記事/Qiita一旦書いた",
-    "Qiita記事/Qiitaプロット思っていることを書いた.md",
-    "Qiita記事/Qiitaプロット.md",
     "Qiita記事/かだい",
     "Qiita記事/私の使命/Qiitaプロット.md",
     "Qiita記事/私の使命/Qiitaプロット思っていることを書いた.md",
