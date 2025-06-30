@@ -1,13 +1,14 @@
 ---
-title: "Explore"
-source: "https://leetcode.com/explore/"
+title: Explore
+source: https://leetcode.com/explore/
 author:
   - "[[LeetCode]]"
-published:
+published: 
 created: 2025-06-25
-description: "LeetCode Explore is the best place for everyone to start practicing and learning on LeetCode. No matter if you are a beginner or a master, there are always new topics waiting for you to explore."
+description: LeetCode Explore is the best place for everyone to start practicing and learning on LeetCode. No matter if you are a beginner or a master, there are always new topics waiting for you to explore.
 tags:
-  - "clippings"
+  - clippings
+  - LeetCode
 ---
 Featured
 
