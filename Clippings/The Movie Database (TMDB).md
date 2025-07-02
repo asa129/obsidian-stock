@@ -7,8 +7,8 @@ created: 2025-06-30
 description: The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.
 tags:
   - clippings
-  - DB
   - 映画
+  - "#API"
 ---
 ## ようこそ！
 
